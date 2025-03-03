@@ -123,7 +123,7 @@ h1, h2, h3 {
 
 .instructor-profile {
   display: center;
-  justify-content: center;
+  justify-content: fixed;
   align-items: center;
   gap: 40px;
   max-width: 1000px;
