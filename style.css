@@ -113,7 +113,7 @@ h1, h2, h3 {
 .instructor {
   padding: 60px 20px;
   background-color: #f4f4f4;
-  text-align: center;
+  text-align: flex;
 }
 
 .instructor h2 {
