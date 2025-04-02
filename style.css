@@ -61,11 +61,13 @@ header {
 .logo-container {
     display: flex;
     align-items: center;
-    gap: 15px;
+    gap: 100px;
 }
 
 .logo {
-    width: 60px;
+    display: flex;
+    align-items: center;
+    width: 100px;
     height: auto;
 }
 
